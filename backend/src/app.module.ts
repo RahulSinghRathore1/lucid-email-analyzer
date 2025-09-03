@@ -8,7 +8,9 @@ dotenv.config();
 @Module({
   imports: [
     // ✅ Connect to MongoDB
-    MongooseModule.forRoot(process.env.MONGO_URI as string),
+   
+
+    MongooseModule.forRoot(process.env.MONGODB_URI as string),
 
     // ✅ Import your Mail module
     MailModule,
