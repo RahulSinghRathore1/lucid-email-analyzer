@@ -49,3 +49,6 @@ npm run dev
 ## Screenshot
 <img width="1401" height="847" alt="image" src="https://github.com/user-attachments/assets/9022b43d-4839-4b09<img width="1401" height="847" alt="Screenshot 2025-09-03 194901" src="https://github.com/user-attachments/assets/f14cd4f7-608b-4c79-8d95-2ff500d94919" />
 -87fb-77e07852e5b6" />
+
+## Deployment
+Deployed it with vercel and Render and db mMongodb Atlas
